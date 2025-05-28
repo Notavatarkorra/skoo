@@ -1,2 +1,0 @@
-# skoo
-School notes
